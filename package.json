@@ -1,0 +1,26 @@
+{
+  "name": "team-timer-api",
+  "version": "1.0.0",
+  "description": "This project is meant to be the api for the team timer application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulKariukiRimiru/TeamTimerAPI.git"
+  },
+  "author": "Paul Rimiru",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulKariukiRimiru/TeamTimerAPI/issues"
+  },
+  "homepage": "https://github.com/PaulKariukiRimiru/TeamTimerAPI#readme",
+  "dependencies": {
+    "@types/node": "^10.11.3",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "typescript": "^3.1.1"
+  }
+}
