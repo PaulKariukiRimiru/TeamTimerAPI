@@ -1,5 +1,7 @@
 # Team-Timer API
 
+[![CircleCI](https://circleci.com/gh/PaulKariukiRimiru/TeamTimerAPI.svg?style=svg)](https://circleci.com/gh/PaulKariukiRimiru/TeamTimerAPI)
+
 Team timer is an API that allows teams to effectively manage their time during team meetings.
 ## Getting Started
 
